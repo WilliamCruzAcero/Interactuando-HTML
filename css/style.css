@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   
+  
+   
+}
+
+.formulario{
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    float: left;
+    gap: 15px;
+    background-color: rgb(66, 183, 105);
+   
+    
+}
+form{
+    border: 2px solid black;
+    width: 210px;
+    height: auto;
+}
+#nombre{
+    width: 200px;
+    height: 15px;
+    text-align: center;
+}
+#apellido{
+    width: 200px;
+    height: 15px;
+    text-align: center;
+}
+#hombre{
+    width: 30px;
+    height: 15px;
+    
+    
+}
+#mujer{
+    width: 30px;
+    height: 15px;
+    
+}
+#terminos{
+    width: 30px;
+    height: 15px;
+}
+#boton{
+    width: 300px;
+    height: 15px;
+    text-align: center;}
+
